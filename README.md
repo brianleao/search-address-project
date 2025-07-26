@@ -1,5 +1,8 @@
 # Projeto de Busca de Endereços
 
+<img width="3104" height="1974" alt="image" src="https://github.com/user-attachments/assets/7162eb71-24ee-464f-822a-0404380becb4" />
+
+
 Este projeto utiliza a API do Google Maps para buscar endereços e exibir no mapa.
 
 ## Configuração das Variáveis de Ambiente
